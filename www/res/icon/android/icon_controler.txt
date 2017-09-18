@@ -1,0 +1,7 @@
+
+cp doctor_PNG15960.png drawable-hdpi-icon.png
+cp doctor_PNG15960.png drawable-ldpi-icon.png
+cp doctor_PNG15960.png drawable-mdpi-icon.png
+cp doctor_PNG15960.png drawable-xhdpi-icon.png
+cp doctor_PNG15960.png drawable-xxhdpi-icon.png
+cp doctor_PNG15960.png drawable-xxxhdpi-icon.png
